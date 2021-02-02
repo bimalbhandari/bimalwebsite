@@ -1,0 +1,6 @@
+[0815/095541.662:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Users\glory\AppData\Local\Google\Chrome\User Data\Crashpad\reports: The file or directory is corrupted and unreadable. (0x570)
+[0815/095541.911:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0815/095543.781:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Users\glory\AppData\Local\Google\Chrome\User Data\Crashpad\reports: The file or directory is corrupted and unreadable. (0x570)
+[0815/120523.443:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Users\glory\AppData\Local\Google\Chrome\User Data\Crashpad\reports: The file or directory is corrupted and unreadable. (0x570)
+[0815/120523.514:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0815/120523.559:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Users\glory\AppData\Local\Google\Chrome\User Data\Crashpad\reports: The file or directory is corrupted and unreadable. (0x570)
